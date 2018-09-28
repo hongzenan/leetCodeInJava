@@ -1,0 +1,65 @@
+Arrays.asList():
+一般用法：
+    String[] myArray = { "Apple", "Banana", "Orange" }；
+    List<String> myList = Arrays.asList(myArray);
+    或者：
+    List<String> myList = Arrays.asList("Apple", "Orange");
+1.该方法对于基本数据类型的数组支持并不好，当数组是基本数据类型时不建议使用。
+asList()接受的是一个泛化类型的参数，再构造一个ArrayList(内部类)，然而基本类型不支持泛化,但是数组支持，所以把整个数组当作参数传递给
+内部ArrayList()了。所以要先把基本类型手动转化成包装类型，或者直接用包装类型。
+    int[] ints = new int[]{1, 2, 3};
+    Integer[] integers = Arrays.stream(ints).boxed().toArray(Integer[]::new);
+
+    或者：
+    int[] ints = new int[]{1, 2, 3};
+    Integer[] newIntegers = new Integer[ints.length];
+    int index = 0;
+    for (int i : ints) {
+        newIntegers[index++] = Integer.valueOf(i);
+    }
+2.当使用asList()方法时，数组就和列表链接在一起了。当更新其中之一时，另一个将自动获得更新。
+    Integer[] array = new Integer[]{2, 1, 3, 5, 4};
+    List<Integer> list = Arrays.asList(array);
+用以上方法时，array和list指向的是同一个地址。
+    Integer[] array = new Integer[]{2, 1, 3, 5, 4};
+    List<Integer> list = new ArrayList<>(Arrays.asList(array));
+用以上方法时，array和list就是分开的，list只是接收array的值(array.toArray())。
+3.Arrays.asList()方法得到的列表是没有add和remove方法的，因为asList()实现是通过内部ArrayList()类，而接收的是一个final对象。
+当然，想要add或remove也不是没有办法，可以先将其转换成ArrayList()，再操作。
+4.可以自己实现从数组到列表的转换：
+    String[] myArray = { "Apple", "Banana", "Orange" };
+    List<String> myList = new ArrayList<String>();
+    for (String str : myArray) {
+        myList.add(str);
+    }
+这样的话，就算是基本类型也可以Integer.valueOf(i)来转换了。
+
+    List<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3));
+    List<Integer> list1 = new ArrayList<Integer>() {{
+        add(1);
+        add(2);
+        add(3);
+    }};
+
+
+关于列表中移除元素(remove)：
+    List<String> names = new ArrayList<>();
+    names.add("aaa");
+    names.add("bbb");
+    names.add("ccc");
+    names.add("ddd");
+    names.add("eee");
+    for (String name : new ArrayList<>(names)) { // 此处不能直接String name : names这样，会报错ConcurrentModificationException。
+        if ("ccc".equals(name)) {
+            names.remove(name);
+        }
+    }
+
+    或者：
+    Iterator<String> iterator = names.iterator();
+    while (iterator.hasNext()) {
+        String s = iterator.next();
+        if ("ccc".equals(s)) {
+            iterator.remove();
+        }
+    }
