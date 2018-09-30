@@ -57,8 +57,32 @@ public class test {
             }
         }
 
-        for (String name : names) {
-            System.out.println(name);
+//        for (String name : names) {
+//            System.out.println(name);
+//        }
+        int[] nums = {3, 6, 2, 7, 1};
+        Arrays.sort(nums, 1, 4);
+        for (int i : nums) {
+            System.out.print(i + ", ");
         }
+
+
+    }
+
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int count1 = nums1.length;
+        int count2 = nums2.length;
+        List list = new ArrayList(Arrays.asList(nums1));
+        list.addAll(Arrays.asList(nums2));
+//        Integer[] str = new Integer[][list.size()];
+//        List<Integer> list = new
+//
+//        list.toArray(str);
+//        for (int i : aa) {
+//            System.out.print(i + ", ");
+//        }
+//        return 0;
+        return 0;
+
     }
 }
