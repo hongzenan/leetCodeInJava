@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50fe5904-132b-4b58-a5fd-796c3e50f0a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zenan/practices/thirtyfive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zenan/practices/thirtynine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zenan/practices/thirtyone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zenan/practices/thirtythree.java" afterDir="false" />
+    <list default="true" id="50fe5904-132b-4b58-a5fd-796c3e50f0a8" name="Default Changelist" comment="2018-10-02 first">
+      <change afterPath="$PROJECT_DIR$/src/com/zenan/practices/fourtyone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zenan/practices/twentytwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zenan/practices/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zenan/practices/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zenan/practices/thirtynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zenan/practices/thirtynine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zenan/practices/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zenan/practices/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,7 +20,7 @@
     <session id="-1810170819">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -33,6 +31,7 @@
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
@@ -41,21 +40,21 @@
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.63" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="25" />
-          <entry key="java" value="21" />
+          <entry key="class" value="28" />
+          <entry key="java" value="23" />
           <entry key="txt" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="25" />
-          <entry key="JAVA" value="21" />
+          <entry key="CLASS" value="28" />
+          <entry key="JAVA" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -63,16 +62,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="107" />
-          <entry key="java" value="32075" />
-          <entry key="txt" value="1231" />
+          <entry key="java" value="34843" />
+          <entry key="txt" value="1259" />
           <entry key="xml" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="107" />
-          <entry key="JAVA" value="32075" />
-          <entry key="PLAIN_TEXT" value="1231" />
+          <entry key="JAVA" value="34843" />
+          <entry key="PLAIN_TEXT" value="1259" />
           <entry key="XML" value="103" />
         </counts>
       </usages-collector>
@@ -81,37 +80,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtyone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtythree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/note.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1342">
-              <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+            <state relative-caret-position="1628">
+              <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,10 +103,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtynine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="122">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/fourtyone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/twentytwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/Arrays.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1998#1999#0" expanded="true" />
+                <element signature="e#2082#2083#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -217,8 +217,9 @@
         <option value="$PROJECT_DIR$/src/com/zenan/practices/twentyseven.java" />
         <option value="$PROJECT_DIR$/src/com/zenan/practices/thirtyone.java" />
         <option value="$PROJECT_DIR$/src/com/zenan/practices/thirtythree.java" />
-        <option value="$PROJECT_DIR$/src/com/zenan/practices/test.java" />
         <option value="$PROJECT_DIR$/src/com/zenan/practices/thirtyfive.java" />
+        <option value="$PROJECT_DIR$/src/com/zenan/practices/test.java" />
+        <option value="$PROJECT_DIR$/src/com/zenan/practices/fourtyone.java" />
         <option value="$PROJECT_DIR$/src/com/zenan/practices/thirtynine.java" />
       </list>
     </option>
@@ -235,15 +236,26 @@
     <option name="width" value="1368" />
     <option name="height" value="767" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,15 +278,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538281702011" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538447229969" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -288,20 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.thirtyone">
-    <configuration name="Sixteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zenan.practices.Sixteen" />
-      <module name="leetCodeInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zenan.practices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.thirtynine">
     <configuration name="eighteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zenan.practices.eighteen" />
       <module name="leetCodeInJava" />
@@ -341,6 +343,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="thirtynine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zenan.practices.thirtynine" />
+      <module name="leetCodeInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zenan.practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="thirtyone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zenan.practices.thirtyone" />
       <module name="leetCodeInJava" />
@@ -357,17 +372,17 @@
     <list>
       <item itemvalue="Application.test" />
       <item itemvalue="Application.fiveteen" />
-      <item itemvalue="Application.Sixteen" />
       <item itemvalue="Application.eighteen" />
       <item itemvalue="Application.thirtyone" />
+      <item itemvalue="Application.thirtynine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.thirtynine" />
         <item itemvalue="Application.thirtyone" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.eighteen" />
         <item itemvalue="Application.fiveteen" />
-        <item itemvalue="Application.Sixteen" />
       </list>
     </recent_temporary>
   </component>
@@ -382,6 +397,14 @@
       <option name="presentableId" value="Default" />
       <updated>1536899096808</updated>
     </task>
+    <task id="LOCAL-00001" summary="2018-09-30 second">
+      <created>1538281765121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538281765121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -397,7 +420,7 @@
     <frame x="-1" y="2" width="1368" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49356914" weight="0.08472012" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49356914" visible="true" weight="0.08472012" />
       <window_info id="Structure" order="1" sideWeight="0.50643086" side_tool="true" weight="0.124237806" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,14 +430,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3802164" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39721793" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921174" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32921174" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32921174" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,6 +450,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2018-09-30 second" />
+    <MESSAGE value="2018-10-02 first" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018-10-02 first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -496,6 +524,11 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>tmp</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>fourSum(nums, 0)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -532,11 +565,6 @@
       </expression>
       <expression>
         <expression-string>target - nums[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -606,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/List.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/Sixteen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -655,13 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/Arrays.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/twentyseven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -676,6 +690,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtythree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -687,6 +708,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1342">
           <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtyfive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -718,30 +756,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/test.java">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/Arrays.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
+            <element signature="e#2082#2083#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtyfive.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/twentytwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/fourtyone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zenan/practices/thirtynine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="122">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -811,6 +854,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: com.github.kevinsawicki:http-request:6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
